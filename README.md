@@ -56,12 +56,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-327
 https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo=" https://iili.io/JrUQUrJ.png" group-title="NASIONAL | INDONESIA",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-EXTINF: -1 tvg-logo="https://i.ibb.co/T0MQdLm/ANTV.png" group-title="NASIONAL | INDONESIA", ANTV
-#EXTVLCOPT:http-agen-pengguna=aura1234
-https://lilirplay.my.id/indihome/index.m3u8?id=antv
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtzcG.png" group-title="NASIONAL | INDONESIA",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
