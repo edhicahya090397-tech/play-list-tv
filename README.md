@@ -25,4 +25,4 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
