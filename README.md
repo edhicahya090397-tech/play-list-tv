@@ -19,8 +19,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://iili.io/JrUtbR4.png" group-title="NASIONAL | INDONESIA",TRANSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
+https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/JrUtu94.png" group-title="NASIONAL | INDONESIA",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
